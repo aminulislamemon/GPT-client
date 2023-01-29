@@ -14,7 +14,7 @@ const ChatInput = ({ sendMessage, loading }) => {
   return (
     <div className="w-full bg-white bg-opacity-10 max-h-40 rounded-lg px-4 py-4 overflow-auto relative">
       {loading ? (
-        <img src="../../public/loader.gif" alt="" className=" w-8 m-auto" />
+        <img src="https://github.com/aminulislamemon/GPT-client/blob/main/public/loader.gif?raw=true" alt="" className=" w-8 m-auto" />
       ) : (
         <>
           <textarea
@@ -29,7 +29,7 @@ const ChatInput = ({ sendMessage, loading }) => {
           />
 
           <img
-            src="../../public/send.png"
+            src="https://github.com/aminulislamemon/GPT-client/blob/main/public/send.png?raw=true"
             alt="send button"
             width={20}
             onClick={submitHandler}

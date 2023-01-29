@@ -1,0 +1,15 @@
+.gradient-01{
+    width: 200px;
+    height: 238px;
+    top: 0;
+    background: #c17aff;
+    filter: blur(170px);
+}
+.gradient-02{
+    width: 200px;
+    height: 238px;
+    top: -6rem;
+    right: 0px;
+    background: #6cd3ff;
+    filter: blur(200px);
+}

@@ -25,7 +25,7 @@ function App() {
   return (
     <div className=" bg-[#02182B] h-screen py-6 relative sm:px-16 px-12 text-white overflow-hidden flex flex-col justify-between align-middle">
       {/* header */}
-      <div className="logo-name uppercase font-bold text-3xl text-center mb-3">
+      <div className="logo-name uppercase font-extrabold text-4xl text-center mb-3 text-transparent bg-clip-text bg-gradient-to-r from-[#ff9f0e] to-[#eb37c7]">
         ChatGPT 2.0
       </div>
 
